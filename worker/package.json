@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node index",
+    "start:development": "nodemon"
+  },
+  "dependencies": {
+    "redis": "3.0.2"
+  },
+  "devDependencies": {
+    "@types/nodemon": "^1.19.0",
+    "@types/redis": "^2.8.28",
+    "nodemon": "2.0.6"
+  }
+}

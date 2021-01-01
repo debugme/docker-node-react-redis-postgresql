@@ -1,1 +1,0 @@
-# docker-node-react-redis-postgresql

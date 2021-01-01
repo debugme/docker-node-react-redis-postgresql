@@ -1,0 +1,5 @@
+node_modules/
+Dockerfile.dev
+Dockerfile.dev.dockerignore
+.gitignore
+README.md
